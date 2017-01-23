@@ -29,4 +29,4 @@ function foo(str, a) {
 }
 
 var b = 2;
-foo("var b = 3"; , 1); // 1 3
+foo("var b = 3;" , 1); // 1 3
